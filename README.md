@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @cesarsene
-- 👀 I’m interested in  Front end 
+- 👀 I’m interested in  Data Science
 - 🌱 I’m currently learning  Lógica de  Programação
-- 💞️ I’m looking to collaborate on  E- comerce e  APIs
 - 📫 How to reach me ...
 
 <!---
