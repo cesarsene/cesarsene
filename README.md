@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cesarsene
-- 👀 I’m interested in  Data Science
-- 🌱 I’m currently learning  Lógica de  Programação
+- 👀 I’m interested in  Engenharia de dados 
+- 🌱 I’m currently learning  Pandas e Python  com AWS
 - 📫 How to reach me ...
 
 <!---
